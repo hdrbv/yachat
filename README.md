@@ -121,9 +121,9 @@ execution_time=$((end_time - start_time))  # Вычисляем время вы�
 echo "Время выполнения: $execution_time секунд" # Выводим инфо
 ```
 
-# Connect Gigachat
+Connect Gigachat
 
-4. Create file .env with access settings to GigaChat API:
+Create file .env with access settings to GigaChat API:
 
    ```sh
    GIGACHAT_CREDENTIALS=ключ_авторизации

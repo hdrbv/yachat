@@ -133,7 +133,11 @@ echo "Время выполнения: $execution_time секунд" # Выво�
 
 [^1]: _yet another chat_
 
-Демо:
+Скриншот запущенного сервиса:
+
+![preview](./main.png)
+
+Видео демо:
 
 https://user-images.githubusercontent.com/46235412/227156264-ca17ab17-999b-414f-ab06-3f75b5235bfe.mp4
 
